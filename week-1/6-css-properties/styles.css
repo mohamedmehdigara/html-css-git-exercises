@@ -9,3 +9,6 @@ a.link--gif{
     text-decoration: none;
     font-weight: bold;
 }
+time.message__time{
+font-size: 0.9rem;
+}
