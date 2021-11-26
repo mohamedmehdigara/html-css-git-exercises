@@ -21,3 +21,8 @@ border-left:5px solid blue;
 .message__content1{
     background-color:  rgba(0,0,0,0.5);
 }
+
+
+*{
+    line-height: 12;
+}
