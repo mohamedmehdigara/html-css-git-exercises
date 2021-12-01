@@ -1,1 +1,8 @@
 /* Try different box model properties below */
+div.site-header__title, div.site-header__title + p{
+    color: white;
+    width: 3000px;
+    border: 15px solid blue;
+    padding: 10px;
+    margin: 0px;
+background-color: blue;}
