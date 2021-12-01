@@ -6,3 +6,24 @@ div.site-header__title, div.site-header__title + p{
     padding: 10px;
     margin: 0px;
 background-color: blue;}
+
+p.message__content{
+    margin-bottom: 0%;
+}
+
+div.site-footer{
+    font-size: 12px;
+    text-align: center;
+}
+div:p {
+    box-shadow: 4px 4px 0 #dba944;
+}
+div.messages{
+    color: white;
+    width: 3000px;
+    border: 15px solid blue;
+    padding: 10px;
+    margin: 0px;
+background-color: gray;}
+  
+}
